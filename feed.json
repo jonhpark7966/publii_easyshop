@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Easy Shopping",
     "description": "",
-    "home_page_url": "https://jonhpark7966.github.io/publii_easyshop",
-    "feed_url": "https://jonhpark7966.github.io/publii_easyshop/feed.json",
+    "home_page_url": "https://ezshop.shop",
+    "feed_url": "https://ezshop.shop/feed.json",
     "user_comment": "",
     "author": {
         "name": "Begger"
     },
     "items": [
         {
-            "id": "https://jonhpark7966.github.io/publii_easyshop/teseu.html",
-            "url": "https://jonhpark7966.github.io/publii_easyshop/teseu.html",
+            "id": "https://ezshop.shop/teseu.html",
+            "url": "https://ezshop.shop/teseu.html",
             "title": "테스트",
             "summary": "Test",
             "content_html": "Test",
