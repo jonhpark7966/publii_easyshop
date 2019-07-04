@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Easy Shopping</title>
+    <link href="https://jonhpark7966.github.io/publii_easyshop/feed.xml" rel="self" />
+    <link href="https://jonhpark7966.github.io/publii_easyshop" />
+    <updated>2019-07-04T18:20:19+09:00</updated>
+    <author>
+        <name>Begger</name>
+    </author>
+    <id>https://jonhpark7966.github.io/publii_easyshop</id>
+
+    <entry>
+        <title>테스트</title>
+        <author>
+            <name>Begger</name>
+        </author>
+        <link href="https://jonhpark7966.github.io/publii_easyshop/teseu.html"/>
+        <id>https://jonhpark7966.github.io/publii_easyshop/teseu.html</id>
+
+        <updated>2019-07-04T18:13:16+09:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Test
+            ]]>
+        </content>
+    </entry>
+</feed>
